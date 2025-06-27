@@ -1,0 +1,12 @@
+.editorconfig
+.git
+.idea
+.vs
+/_ReSharper.Caches/
+/packages/
+bin/
+MangaReader.sln.DotSettings
+MangaReader.sln.DotSettings.user
+obj/
+riderModule.iml
+StyleCop.Cache
